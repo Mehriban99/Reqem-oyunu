@@ -1,0 +1,7 @@
+C:\Users\Compar Academy\source\repos\ReqemOyunu\ReqemOyunu\bin\Debug\ReqemOyunu.exe.config
+C:\Users\Compar Academy\source\repos\ReqemOyunu\ReqemOyunu\bin\Debug\ReqemOyunu.exe
+C:\Users\Compar Academy\source\repos\ReqemOyunu\ReqemOyunu\bin\Debug\ReqemOyunu.pdb
+C:\Users\Compar Academy\source\repos\ReqemOyunu\ReqemOyunu\obj\Debug\ReqemOyunu.csprojAssemblyReference.cache
+C:\Users\Compar Academy\source\repos\ReqemOyunu\ReqemOyunu\obj\Debug\ReqemOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Compar Academy\source\repos\ReqemOyunu\ReqemOyunu\obj\Debug\ReqemOyunu.exe
+C:\Users\Compar Academy\source\repos\ReqemOyunu\ReqemOyunu\obj\Debug\ReqemOyunu.pdb
